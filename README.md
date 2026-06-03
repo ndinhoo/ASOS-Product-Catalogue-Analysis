@@ -21,7 +21,7 @@ asos-analysis/
 
 ## 🔧 Dataset & Feature Engineering
 
-**Source** : [Kaggle — ASOS Product Dataset](https://www.kaggle.com/)
+**Source** : [Kaggle — ASOS Product Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products?resource=download))
 
 Raw data contained product names, prices, colours and size availability strings.
 The following features were engineered from scratch in `cleaning.ipynb` :
