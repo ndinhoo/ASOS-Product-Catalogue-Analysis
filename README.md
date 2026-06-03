@@ -1,4 +1,4 @@
-# 🛍️ ASOS Product Catalogue Analysis
+# ASOS Product Catalogue Analysis
 
 Exploratory data analysis of the ASOS product catalogue (~30,000 products) to extract actionable business insights on brand strategy, pricing, stock management and colour trends.
 
